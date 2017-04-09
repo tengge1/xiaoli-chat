@@ -1,0 +1,6 @@
+[ 2015-10-15T17:42:37+08:00 ] 119.187.143.188 /XiaoliChat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+ERR: SQLSTATE[HY000]: General error: 1 Can't create/write to file '/tmp/#sql_345_0.MYI' (Errcode: 13)
+

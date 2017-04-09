@@ -1,0 +1,1403 @@
+[ 2015-09-15T21:29:25+08:00 ] 140.207.54.75 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=b4bcb6dfec98d0922a9fa479a2ee0712f7df2c88&timestamp=1442323760&nonce=1389613547
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001458s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0287s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009253s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0009s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442323760','text','你好','6194733379652129329',NULL,NULL,NULL,NULL) [ RunTime:0.0210s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('8','1442323761','text','ååä»') [ RunTime:0.0062s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011822s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011878s ]
+
+[ 2015-09-15T21:29:39+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=c6c2441b09e650444d241663be69ca5479eb5366&timestamp=1442323778&nonce=1382067966
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0006s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442323778','text','hello','6194733456961540665',NULL,NULL,NULL,NULL) [ RunTime:0.0068s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('9','1442323778','text','我不好') [ RunTime:0.0048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000376s ]
+
+[ 2015-09-15T21:29:50+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=079e8e919ae8d5ae592d250549f66f52f2f28299&timestamp=1442323789&nonce=1362236269
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000086s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0007s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442323789','text','good','6194733504206180925',NULL,NULL,NULL,NULL) [ RunTime:0.0061s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('10','1442323789','text','Thx sir') [ RunTime:0.0051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000093s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000131s ]
+
+[ 2015-09-15T21:30:05+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=eac4bd217d4e32e1ca7248dde33df7fa0260e027&timestamp=1442323804&nonce=2082034562
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0009s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000116s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0006s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442323804','text','who are you','6194733568630690368',NULL,NULL,NULL,NULL) [ RunTime:0.0186s ]
+NOTIC: [8] Trying to get property of non-object /var/www/html/XiaoliChat/Application/Home/Common/function.php 第 13 行.
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'content' cannot be null
+
+[ 2015-09-15T21:32:36+08:00 ] 140.207.54.75 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=a2dcbb53f0f94c3cc63a32d4609c39275d1f9f10&timestamp=1442323956&nonce=1038853244
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0007s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442323955','text','你好','6194734217170752081',NULL,NULL,NULL,NULL) [ RunTime:0.0124s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('12','1442323956','text','ä½ å®¶å°é¢') [ RunTime:0.0043s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000094s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000131s ]
+
+[ 2015-09-15T21:53:24+08:00 ] 140.207.54.74 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=7b805c15c096441d63e282cae458c18ad986546c&timestamp=1442325203&nonce=1074696261
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000086s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442325203','text','hi','6194739577289937674',NULL,NULL,NULL,NULL) [ RunTime:0.0052s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0010s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('13','1442325203','text','叔叔，不约') [ RunTime:0.0110s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000130s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000196s ]
+
+[ 2015-09-15T21:53:31+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=78f7e36b893cb06f331cfa0b5ba33976fbe45b1d&timestamp=1442325210&nonce=52333308
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442325210','text','no','6194739607354708752',NULL,NULL,NULL,NULL) [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('14','1442325210','text','why you try') [ RunTime:0.0045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000093s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000130s ]
+
+[ 2015-09-15T21:53:45+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=300e23568d3858a7d8429a04083f30e59f7a4d98&timestamp=1442325224&nonce=211344287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000086s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442325224','text','i love you','6194739667484250903',NULL,NULL,NULL,NULL) [ RunTime:0.0083s ]
+NOTIC: [8] Trying to get property of non-object /var/www/html/XiaoliChat/Application/Home/Common/function.php 第 13 行.
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0009s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'content' cannot be null
+
+[ 2015-09-15T21:53:51+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=7a03a7a713561ef0a35f8878b303a6388eb0afdb&timestamp=1442325230&nonce=683108481
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442325230','text','test','6194739693254054683',NULL,NULL,NULL,NULL) [ RunTime:0.0056s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('16','1442325230','text','只能幫你殺老師') [ RunTime:0.0049s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000080s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000119s ]
+
+[ 2015-09-15T21:54:02+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=e148b46237cc9e7e311f6027614cb759007fec58&timestamp=1442325241&nonce=799763118
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442325241','text','who','6194739740498694942',NULL,NULL,NULL,NULL) [ RunTime:0.0052s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('17','1442325241','text','同你幾似樣既') [ RunTime:0.0048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000079s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000117s ]
+
+[ 2015-09-15T21:54:10+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=bca07aae2bf3899852111b27a2382a58a8586e9a&timestamp=1442325249&nonce=517900128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442325249','text','name','6194739774858433312',NULL,NULL,NULL,NULL) [ RunTime:0.0061s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('18','1442325249','text','My name is xiaoxiao') [ RunTime:0.0056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000081s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000121s ]
+
+[ 2015-09-15T22:00:57+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=40b4634fa08a82ba82a73b03befaeea6228e9f75&timestamp=1442325656&nonce=795768270
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0006s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442325656','text','hello','6194741522910122888',NULL,NULL,NULL,NULL) [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('19','1442325656','text','干嘛，孩子') [ RunTime:0.0062s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000097s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000135s ]
+
+[ 2015-09-15T22:01:03+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=7787469cbf9425ae6a948025d754d895e2d07767&timestamp=1442325662&nonce=1332192497
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000086s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442325662','text','你好','6194741548679926669',NULL,NULL,NULL,NULL) [ RunTime:0.0102s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('20','1442325662','text','I HAVE NO RESPONSE.<br>PLEASE TEACH ME.<br>Android: <a href=\'javascript:clickTeach(\"A\");\'>simsimi.com/app/android</a><br>iOS: <a href=\'javascript:clickTeach(\"I\");\'>simsimi.com/app/iOS</a>') [ RunTime:0.0051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000082s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000120s ]
+
+[ 2015-09-15T22:01:18+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=b100e331db403f37961ba58ae5b794a08cc653ee&timestamp=1442325677&nonce=735102650
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442325677','text','you are wrong','6194741613104436114',NULL,NULL,NULL,NULL) [ RunTime:0.0058s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('21','1442325677','text','Shut up
+') [ RunTime:0.0072s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000092s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000131s ]
+
+[ 2015-09-15T22:01:31+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=50760e8080073cd28ce080eeeb74b1c6e020bb35&timestamp=1442325690&nonce=29180422
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0008s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442325690','text','who are you','6194741668939010966',NULL,NULL,NULL,NULL) [ RunTime:0.0139s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('22','1442325690','text','9') [ RunTime:0.0101s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000124s ]
+
+[ 2015-09-15T22:01:40+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=c902e35bc76e2bd4a80680c02b5849100f283c50&timestamp=1442325699&nonce=950875927
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442325699','text','haha','6194741707593716633',NULL,NULL,NULL,NULL) [ RunTime:0.0097s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('23','1442325699','text','haha') [ RunTime:0.0223s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000093s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000135s ]
+
+[ 2015-09-15T22:02:22+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=848367561d74c2a6494417cdefae87156565d694&timestamp=1442325741&nonce=265562449
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0007s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442325741','text','你好','6194741887982343080',NULL,NULL,NULL,NULL) [ RunTime:0.0065s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('24','1442325741','text','I HAVE NO RESPONSE.<br>PLEASE TEACH ME.<br>Android: <a href=\'javascript:clickTeach(\"A\");\'>simsimi.com/app/android</a><br>iOS: <a href=\'javascript:clickTeach(\"I\");\'>simsimi.com/app/iOS</a>') [ RunTime:0.0045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000097s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000135s ]
+
+[ 2015-09-15T22:03:11+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=805098033500d8fc867d7f1e0acef3a788d2816d&timestamp=1442325790&nonce=821386228
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442325789','text','你好','6194742094140773315',NULL,NULL,NULL,NULL) [ RunTime:0.0063s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('25','1442325790','text','你也很好哦') [ RunTime:0.0054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000119s ]
+
+[ 2015-09-15T22:03:17+08:00 ] 140.207.54.75 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=1a4267d9ec3295fc0db5fa8e664272a38f413947&timestamp=1442325796&nonce=1135337808
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0007s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0018s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442325795','text','我爱你','6194742119910577096',NULL,NULL,NULL,NULL) [ RunTime:0.0073s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('26','1442325796','text','我也爱你，宝贝儿') [ RunTime:0.0056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000093s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000140s ]
+
+[ 2015-09-15T22:03:23+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=a0b6ce4faf640173b82be7f3952fb5ad86611233&timestamp=1442325802&nonce=979673411
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0006s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442325802','text','你很丑','6194742149975348174',NULL,NULL,NULL,NULL) [ RunTime:0.0113s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('27','1442325802','text','不。你很漂亮') [ RunTime:0.0056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000079s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000117s ]
+
+[ 2015-09-15T22:03:35+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=25d0ef9462083370472a4f0be78da867f3a426ff&timestamp=1442325813&nonce=1535996336
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442325813','text','我要打你屁股','6194742197219988436',NULL,NULL,NULL,NULL) [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0010s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('28','1442325813','text','是，母后，【说着脱了衣服和裤子】') [ RunTime:0.0062s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000087s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000126s ]
+
+[ 2015-09-15T22:03:43+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=4f1ec0c459ab2b8a00f0656fd607ce407b2826df&timestamp=1442325822&nonce=1642106926
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000080s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442325822','text','你是谁','6194742235874694105',NULL,NULL,NULL,NULL) [ RunTime:0.0052s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('29','1442325822','text','雨孤') [ RunTime:0.0054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000108s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000163s ]
+
+[ 2015-09-15T22:03:51+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=58d1d7ac8996024cb508a56eb1617d4649a9b110&timestamp=1442325830&nonce=819889767
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0007s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0006s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442325830','text','小黄鸡','6194742270234432477',NULL,NULL,NULL,NULL) [ RunTime:0.0047s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('30','1442325831','text','干嘛') [ RunTime:0.0053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000081s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000119s ]
+
+[ 2015-09-15T22:04:03+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=e035be71f592af7a2b7e9520d2b7af800e773d81&timestamp=1442325841&nonce=2125859626
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0008s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000150s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0006s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442325841','text','你不是鸡？','6194742317479072741',NULL,NULL,NULL,NULL) [ RunTime:0.0121s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0011s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('31','1442325841','text','你昨天不是剛看過嗎？') [ RunTime:0.0055s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000112s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000177s ]
+
+[ 2015-09-15T22:04:11+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=5e67c52f095ee8e8f4ba839c7d4cd4dfc620fe9b&timestamp=1442325850&nonce=1983618024
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442325850','text','不错','6194742356133778409',NULL,NULL,NULL,NULL) [ RunTime:0.0064s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0007s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('32','1442325850','text','哪里哪里') [ RunTime:0.0075s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000081s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000120s ]
+
+[ 2015-09-15T22:38:08+08:00 ] 140.207.54.75 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=5eccb15b4097d230aadfb0f25c2fe03fdf563872&timestamp=1442327887&nonce=713089013
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442327887','text','你好','6194751104982160872',NULL,NULL,NULL,NULL) [ RunTime:0.0069s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('33','1442327887','text','你不好嗎') [ RunTime:0.0080s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000084s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000123s ]
+
+[ 2015-09-15T22:38:17+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=dfcc9d5b32c0366257ab740e8a54a4c49b4be8e3&timestamp=1442327895&nonce=544159969
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0007s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442327895','text','幸会','6194751139341899243',NULL,NULL,NULL,NULL) [ RunTime:0.0061s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('34','1442327895','text','I HAVE NO RESPONSE.<br>PLEASE TEACH ME.<br>Android: <a href=\'javascript:clickTeach(\"A\");\'>simsimi.com/app/android</a><br>iOS: <a href=\'javascript:clickTeach(\"I\");\'>simsimi.com/app/iOS</a>') [ RunTime:0.0083s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000092s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000131s ]
+
+[ 2015-09-15T22:38:28+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=e219a3ef4555d85171f8fa2fa87095348678e81e&timestamp=1442327907&nonce=114679110
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442327907','text','真不错。','6194751190881506798',NULL,NULL,NULL,NULL) [ RunTime:0.0054s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('35','1442327907','text','還好而已啦！差你一節') [ RunTime:0.0063s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000085s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000154s ]
+
+[ 2015-09-15T22:43:33+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=39b56b2414f8878a383c1870cf884540771ab467&timestamp=1442328212&nonce=1579219763
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0007s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0023s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442328212','text','你好','6194752500846532121',NULL,NULL,NULL,NULL) [ RunTime:0.0055s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('36','1442328212','text','你也很好哦') [ RunTime:0.0054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000081s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000119s ]
+
+[ 2015-09-15T22:47:05+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=33fac52cab58a0343fdea7391165d102db0967cb&timestamp=1442328424&nonce=1617723826
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0006s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442328424','text','真不错','6194753411379598892',NULL,NULL,NULL,NULL) [ RunTime:0.0052s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('1','1442328424','text','是呀 是呀') [ RunTime:0.0095s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000089s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000128s ]
+
+[ 2015-09-15T22:48:01+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=d59c1fe90cd410547bca249beaaa3bd5c63cfe9b&timestamp=1442328480&nonce=598247858
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0007s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442328480','text','你很强','6194753651897767484',NULL,NULL,NULL,NULL) [ RunTime:0.0066s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('2','1442328480','text','我用肺呼吸') [ RunTime:0.0047s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000080s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000117s ]
+
+[ 2015-09-15T22:54:32+08:00 ] 140.207.54.74 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=56f349fb24f0a06df9d542e758cda8bb58279c20&timestamp=1442328871&nonce=1340421868
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442328871','text','你好','6194755331229980290',NULL,NULL,NULL,NULL) [ RunTime:0.0067s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('3','1442328871','text','
+马勒戈壁我不好') [ RunTime:0.0046s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000109s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000172s ]
+
+[ 2015-09-15T22:57:00+08:00 ] 101.226.66.175 /XiaoliChat/index.php/Home/WechatCallback/run.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined index: signature /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 83 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 84 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000073s ]
+
+[ 2015-09-15T23:01:05+08:00 ] 140.207.54.74 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=6b20d4ddaffa9b156d783bcac486ff24a3fd162d&timestamp=1442329264&nonce=493976933
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0006s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442329264','text','你好','6194757019152127668',NULL,NULL,NULL,NULL) [ RunTime:0.0068s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0009s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('1','1442329264','text','你好呀小可爱') [ RunTime:0.0076s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000080s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000118s ]
+
+[ 2015-09-15T23:04:20+08:00 ] 140.207.54.75 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=1a54c469fbee25e9db58f85cd8be85ff4903f3a2&timestamp=1442329459&nonce=1155023738
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442329459','text','你好','6194757856670750403',NULL,NULL,NULL,NULL) [ RunTime:0.0055s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('2','1442329459','text','鎵撴浣') [ RunTime:0.0069s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000081s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000119s ]
+
+[ 2015-09-15T23:05:22+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=0f48e50122cf23253345ba5783454514c7dcd4ff&timestamp=1442329521&nonce=548085506
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0007s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442329521','text','你好','6194758122958722765',NULL,NULL,NULL,NULL) [ RunTime:0.0065s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('3','1442329521','text','�ҵ�Ů�����') [ RunTime:0.0053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2015-09-15T23:10:28+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=155ccad8502b3d4f7f4d8bac6235795a6f8139db&timestamp=1442329826&nonce=413056451
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0007s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0006s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442329826','text','你好','6194759432923748087',NULL,NULL,NULL,NULL) [ RunTime:0.0057s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0010s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('1','1442329827','text','Ů���������
+') [ RunTime:0.0053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000101s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000149s ]
+
+[ 2015-09-15T23:14:58+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=9625433e329a4263baaed9d105f68ffbb79952f2&timestamp=1442330097&nonce=485002066
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0006s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442330097','text','你好','6194760596859885346',NULL,NULL,NULL,NULL) [ RunTime:0.0067s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0009s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('2','1442330097','text','�ҵ�Ů�����') [ RunTime:0.0046s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000091s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000132s ]
+
+[ 2015-09-15T23:17:21+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=a4ab9d6b82432b8c13e60c570edcc6451418707c&timestamp=1442330241&nonce=809185592
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442330241','text','呵呵','6194761215335176024',NULL,NULL,NULL,NULL) [ RunTime:0.0053s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0007s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('3','1442330241','text','�Ǻǣ�����ô���װ���') [ RunTime:0.0097s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000090s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000131s ]
+
+[ 2015-09-15T23:18:16+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=2f49d1567601da7fd595a020f408109401d7d7a4&timestamp=1442330295&nonce=784819181
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0006s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442330295','text','呵呵','6194761447263410020',NULL,NULL,NULL,NULL) [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('4','1442330295','text','你是傻逼') [ RunTime:0.0049s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000083s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000121s ]
+
+[ 2015-09-15T23:18:57+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=1546a38cdd633d4e9d85a6eacf0313952cb5652d&timestamp=1442330336&nonce=813769234
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0007s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442330336','text','你好','6194761623357069161',NULL,NULL,NULL,NULL) [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0010s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('5','1442330336','text','你不好嗎') [ RunTime:0.0048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000106s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000172s ]
+
+[ 2015-09-15T23:25:50+08:00 ] 140.207.54.74 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=a429c953a0c3f58bd2ae84f459e01d0661d070de&timestamp=1442330749&nonce=1305100313
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0006s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442330749','text','呵呵','6194763397178562463',NULL,NULL,NULL,NULL) [ RunTime:0.0086s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0009s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('6','1442330749','text','呵呵+1') [ RunTime:0.0059s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000077s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000115s ]
+
+[ 2015-09-15T23:31:26+08:00 ] 140.207.54.74 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=09ab4693c7c03c05e56a5bcb1e65594352c31e39&timestamp=1442331085&nonce=934702627
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442331085','text','你是小笨蛋。','6194764840287573954',NULL,NULL,NULL,NULL) [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('7','1442331086','text','你怎麼知道!!#
+會通靈錒') [ RunTime:0.0056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000161s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000202s ]
+
+[ 2015-09-15T23:31:34+08:00 ] 140.207.54.74 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=d3d9ad220e4087121f203e7bfc89ab556e3b458b&timestamp=1442331093&nonce=1535375326
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0008s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000085s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442331093','text','你是谁','6194764874647312325',NULL,NULL,NULL,NULL) [ RunTime:0.0059s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('8','1442331093','text','我是武心') [ RunTime:0.0055s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000083s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000120s ]
+
+[ 2015-09-15T23:31:56+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=52be37df70ff755bcdd20efe556fa2d418a7942e&timestamp=1442331115&nonce=1506201570
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0007s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000090s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442331115','text','我爱你','6194764969136592844',NULL,NULL,NULL,NULL) [ RunTime:0.0089s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('9','1442331115','text','和我啪啪啪') [ RunTime:0.0042s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000104s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000148s ]
+
+[ 2015-09-15T23:32:03+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=455baa2c964310122b1b749149fae3001ae3f072&timestamp=1442331122&nonce=2052502586
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000133s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442331122','text','好呀','6194764999201363920',NULL,NULL,NULL,NULL) [ RunTime:0.0049s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0009s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('10','1442331122','text','你好，可爱的主人') [ RunTime:0.0046s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000114s ]
+
+[ 2015-09-15T23:32:09+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=9bf0397841cedee395f4b2a3fb234895ed6cf2c7&timestamp=1442331129&nonce=698316487
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0006s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442331128','text','你好','6194765024971167701',NULL,NULL,NULL,NULL) [ RunTime:0.0062s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('11','1442331129','text','你好，么么嗒') [ RunTime:0.0067s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2015-09-15T23:32:25+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=c165311feeac99a2658d401c9a5ef9aa2c24ed2a&timestamp=1442331144&nonce=1773611556
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442331144','text','屁股','6194765093690644442',NULL,NULL,NULL,NULL) [ RunTime:0.0059s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('12','1442331144','text','喔,然後呢') [ RunTime:0.0045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000077s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000116s ]
+
+[ 2015-09-15T23:32:32+08:00 ] 140.207.54.75 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=92f20432e5812ed1401cbe2cdf24b39e576bedae&timestamp=1442331151&nonce=1005401095
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0007s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0031s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442331151','text','挨打','6194765123755415516',NULL,NULL,NULL,NULL) [ RunTime:0.0135s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0009s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('13','1442331151','text','會 仲會生一隊足球隊tim') [ RunTime:0.0066s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000080s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000133s ]
+
+[ 2015-09-15T23:32:44+08:00 ] 140.207.54.74 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=b072f87cc448139678219aacff6f1863280e452c&timestamp=1442331163&nonce=2126287840
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0007s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0058s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442331163','text','奥巴马','6194765175295023070',NULL,NULL,NULL,NULL) [ RunTime:0.0088s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0007s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('14','1442331163','text','94，对极了') [ RunTime:0.0053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000081s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000120s ]
+
+[ 2015-09-15T23:45:28+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=06094e74b7dc1b66436451c19aaafad3ef85ca55&timestamp=1442331927&nonce=1692257594
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442331927','text','软绵绵','6194768456650037304',NULL,NULL,NULL,NULL) [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('15','1442331927','text','cute') [ RunTime:0.0128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000096s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000138s ]
+
+[ 2015-09-15T23:45:38+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=8eace4f05443d290fd4800498bdfcc3a38b0f05e&timestamp=1442331937&nonce=1852845940
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442331937','text','你好棒','6194768499599710266',NULL,NULL,NULL,NULL) [ RunTime:0.0067s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('16','1442331937','text','謝謝你') [ RunTime:0.0055s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000081s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000119s ]
+
+[ 2015-09-15T23:45:49+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=e3dc4a2d4666c8f0a52f0c0541f6675124a1da3e&timestamp=1442331948&nonce=1072808504
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442331948','text','打死你','6194768546844350525',NULL,NULL,NULL,NULL) [ RunTime:0.0054s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('17','1442331948','text','啊~对不起~大侠，看在我你是同心异友的份上，挠了我吧！') [ RunTime:0.0061s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000084s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000123s ]
+
+[ 2015-09-15T23:46:12+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=bc99697dc7f911b2bfa62f00dcb039db90d9c68e&timestamp=1442331971&nonce=212289136
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442331971','text','simsimi','6194768645628598341',NULL,NULL,NULL,NULL) [ RunTime:0.0061s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('18','1442331971','text','你叫我幹嘛ㄚ？') [ RunTime:0.0055s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000080s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000118s ]
+
+[ 2015-09-15T23:46:24+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=7e857acd56b1b33719912390a64a1601740202e5&timestamp=1442331983&nonce=1426592970
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442331983','text','小黄鸡','6194768697168205899',NULL,NULL,NULL,NULL) [ RunTime:0.0068s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('19','1442331983','text','你才是小黄鸡') [ RunTime:0.0065s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000080s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000118s ]
+
+[ 2015-09-15T23:46:49+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=0466ab6b3d4ff61ad9fed765774c3ee633b48638&timestamp=1442332008&nonce=10748879
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442332008','text','呵呵','6194768804542388308',NULL,NULL,NULL,NULL) [ RunTime:0.0088s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('20','1442332008','text','吾王万岁万岁万万岁
+') [ RunTime:0.0044s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000079s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000118s ]
+
+[ 2015-09-15T23:47:03+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=be241ac07bc4ed50fe2e790fe1a4713d8584ccf6&timestamp=1442332023&nonce=1825893729
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0006s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442332023','text','你会说多少话','6194768868966897755',NULL,NULL,NULL,NULL) [ RunTime:0.0062s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0010s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('21','1442332023','text','yes.') [ RunTime:0.0048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000106s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000174s ]
+
+[ 2015-09-15T23:47:26+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=ae73e2c5971d138d5e7c6ae5b293796934e89ade&timestamp=1442332044&nonce=1175192983
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0007s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442332044','text','i love you','6194768959161210976',NULL,NULL,NULL,NULL) [ RunTime:0.0076s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('22','1442332044','text','爱你到永远') [ RunTime:0.0064s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000116s ]
+
+[ 2015-09-15T23:47:37+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=6f625c2f74fbc4256d0f110171e577b7612d9de6&timestamp=1442332056&nonce=1938959617
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0006s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442332056','text','我在马路边','6194769010700818531',NULL,NULL,NULL,NULL) [ RunTime:0.0067s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('23','1442332056','text','你人在哪里') [ RunTime:0.0050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000117s ]
+
+[ 2015-09-15T23:47:44+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=7dfcedbc998a84d66e89d9cd80acb9806333e892&timestamp=1442332063&nonce=394286109
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0007s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442332063','text','鬼故事','6194769040765589605',NULL,NULL,NULL,NULL) [ RunTime:0.0117s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('24','1442332063','text','從一片落葉開始') [ RunTime:0.0270s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000127s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000197s ]
+
+[ 2015-09-15T23:48:07+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=9eb25beba9f8706c97e79f2eb8030dd92d442c7f&timestamp=1442332086&nonce=84974998
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0006s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442332086','text','你言语不得体','6194769139549837419',NULL,NULL,NULL,NULL) [ RunTime:0.0098s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('25','1442332087','text','要得要') [ RunTime:0.0045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000080s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000118s ]
+
+[ 2015-09-15T23:51:41+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=949d8da9e9146e97e6fbd6179843e94005ca397c&timestamp=1442332300&nonce=997911129
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442332300','text','打你屁股','6194770058672838815',NULL,NULL,NULL,NULL) [ RunTime:0.0066s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('26','1442332300','text','我屁股?') [ RunTime:0.0046s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000081s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000119s ]
+
+[ 2015-09-15T23:51:47+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=df98c305bdaec662e013a1fefd17669fc59801d7&timestamp=1442332306&nonce=1993608849
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442332306','text','是啊','6194770084442642594',NULL,NULL,NULL,NULL) [ RunTime:0.0052s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('27','1442332306','text','對啊') [ RunTime:0.0053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000080s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000118s ]
+
+[ 2015-09-15T23:54:00+08:00 ] 140.207.54.74 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=0430076ce2f15dcc40cd701dacbad64b349c2538&timestamp=1442332439&nonce=873084286
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442332439','text','放屁','6194770655673292982',NULL,NULL,NULL,NULL) [ RunTime:0.0109s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('28','1442332440','text','排放二氧化碳') [ RunTime:0.0050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000079s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000116s ]
+
+[ 2015-09-15T23:54:15+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=e257430d6e38adf245da637ad0cd015ea818ef46&timestamp=1442332454&nonce=2043221461
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442332454','text','怎么说你好呢','6194770720097802425',NULL,NULL,NULL,NULL) [ RunTime:0.0075s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('29','1442332454','text','你问他有喜欢的人吗') [ RunTime:0.0068s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000085s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2015-09-15T23:55:07+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=631e78842fcd6adc4d3172bf13ad9c9bda1a6b6c&timestamp=1442332507&nonce=1205097341
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0007s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0019s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442332507','text','你很漂亮','6194770947731069120',NULL,NULL,NULL,NULL) [ RunTime:0.0146s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0008s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('30','1442332507','text','你比我还漂亮呢') [ RunTime:0.0070s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000126s ]
+
+[ 2015-09-15T23:55:31+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=fd4691fc27afd4a376655856afd29deab6728e45&timestamp=1442332530&nonce=247340715
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+SQL: SHOW COLUMNS FROM `xl_config` [ RunTime:0.0006s ]
+SQL: SELECT `name`,`value` FROM `xl_config`  [ RunTime:0.0001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Undefined index: PicUrl /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 109 行.
+NOTIC: [8] Undefined index: MediaId /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 110 行.
+NOTIC: [8] Undefined index: Format /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 111 行.
+NOTIC: [8] Undefined index: Recognition /var/www/html/XiaoliChat/Application/Home/Controller/WechatCallbackController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `xl_post_msg` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xl_post_msg` (`to_user_name`,`from_user_name`,`create_time`,`msg_type`,`content`,`msg_id`,`pic_url`,`media_id`,`format`,`recognition`) VALUES ('gh_7842d6b2dcfb','oMvLNww_Gu2T_u11YjRPoCGw5-Sw','1442332530','text','真没劲','6194771046515316938',NULL,NULL,NULL,NULL) [ RunTime:0.0064s ]
+SQL: SHOW COLUMNS FROM `xl_push_msg` [ RunTime:0.0007s ]
+SQL: INSERT INTO `xl_push_msg` (`post_msg_id`,`create_time`,`msg_type`,`content`) VALUES ('31','1442332530','text','干啥有劲啊，撞墙') [ RunTime:0.0044s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000114s ]
+

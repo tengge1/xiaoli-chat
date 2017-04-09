@@ -1,0 +1,7 @@
+名称：XiaoliChat
+版本：v1.0
+作者：tengge
+功能：微信聊天机器人，对话，笑话，天气查询，赌博，经验排行，金币排行等。
+
+欢迎添加小璃Baby微信公众号，微信号：xiaoli-robot（已坏掉）。
+源代码：https://github.com/tengge1/XiaoliChat。

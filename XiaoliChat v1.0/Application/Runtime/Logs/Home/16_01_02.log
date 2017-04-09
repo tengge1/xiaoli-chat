@@ -1,0 +1,6 @@
+[ 2016-01-02T01:46:00+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=a462f4b6cbd3d9b65edff9df3a98559652e3a342&timestamp=1451670360&nonce=847640924
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'msg_id' cannot be null
+
+[ 2016-01-02T01:47:08+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=6e11ecf382c83b442184e5cc0c64d1c39cc4b87e&timestamp=1451670428&nonce=1836214029
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'msg_id' cannot be null
+

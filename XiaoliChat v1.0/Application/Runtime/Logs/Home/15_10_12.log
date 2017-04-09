@@ -1,0 +1,6 @@
+[ 2015-10-12T18:56:40+08:00 ] 140.207.54.75 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=f80265135e05697a5894afea7d524d0ea774ddf9&timestamp=1444647400&nonce=1469084202
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013082s ]
+ERR: SQLSTATE[HY000]: General error: 1 Can't create/write to file '/tmp/#sql_345_0.MYI' (Errcode: 13)
+

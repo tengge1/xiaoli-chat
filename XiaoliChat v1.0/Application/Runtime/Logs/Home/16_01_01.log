@@ -1,0 +1,3 @@
+[ 2016-01-01T22:08:36+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=150b7333f0436ddd6c202e370df2a43e53d5c51e&timestamp=1451657316&nonce=1708306973
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'msg_id' cannot be null
+

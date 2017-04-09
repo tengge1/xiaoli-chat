@@ -1,0 +1,18 @@
+[ 2015-10-14T23:15:00+08:00 ] 140.207.54.75 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=a5243a84161b6782f9e242fc473959c217f63a6c&timestamp=1444835699&nonce=692693724
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+ERR: SQLSTATE[HY000]: General error: 1 Can't create/write to file '/tmp/#sql_345_0.MYI' (Errcode: 13)
+
+[ 2015-10-14T23:15:04+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=2f9aefe1c7767714c59f96fbda7f3acd32362f60&timestamp=1444835704&nonce=889173100
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+ERR: SQLSTATE[HY000]: General error: 1 Can't create/write to file '/tmp/#sql_345_0.MYI' (Errcode: 13)
+
+[ 2015-10-14T23:15:15+08:00 ] 140.207.54.73 /XiaoliChat/index.php/Home/WechatCallback/run.html?signature=90f596d2aa46b130ff811509ff1f6d75148f018d&timestamp=1444835715&nonce=278009784
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+ERR: SQLSTATE[HY000]: General error: 1 Can't create/write to file '/tmp/#sql_345_0.MYI' (Errcode: 13)
+
